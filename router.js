@@ -22,7 +22,7 @@ function navigate(route) {
             window.location.href = 'Raj/podcastPage/Spotify/spotify.html';
             break;
         case 'Contact':
-            window.location.href = 'Siri/contactus.html';
+            window.location.href = 'Siri/aboutus.html';
             break;
         
         case 'About':
@@ -33,7 +33,7 @@ function navigate(route) {
             if (isLoggedIn) {
                 alert(`Logged in as ${localStorage.getItem('username')}`);
             } else {
-                window.location.href = 'Shreya/form.html';
+                window.location.href = 'Shreya/signup.html';
             }
             break;
         default:

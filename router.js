@@ -1,5 +1,5 @@
 //for testing puposes
-// localStorage.removeItem('isLoggedIn');
+// localStorage.removeItem('isLoggedIn');   
 
 
 function checkAuthentication() {
@@ -22,7 +22,7 @@ function navigate(route) {
             window.location.href = 'Raj/podcastPage/Spotify/spotify.html';
             break;
         case 'Contact':
-            window.location.href = 'Siri/aboutus.html';
+            window.location.href = 'Siri/contactus.html';
             break;
         
         case 'About':

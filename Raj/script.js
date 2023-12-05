@@ -21,22 +21,22 @@ const users = [
   {
     name:'Raj',
       email: 'Raj@gmail',
-      pass: 'pass1234'
+      pass: '1234'
   },
   {
     name:'Riya',
       email: 'Riya@gmail',
-      pass: 'password'
+      pass: '1234'
   },
   {
     name:'Siri',
       email: 'Siri@gmail',
-      pass: 'pass1234'
+      pass: '1234'
   },
   {
     name:'Shreya',
       email: 'Shreya@gmail',
-      pass: 'password'
+      pass: '1234'
   },
 ]; //faked db containing fue usernames and passwords
 
